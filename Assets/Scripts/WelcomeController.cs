@@ -7,7 +7,7 @@ public class WelcomeController : MonoBehaviour
 {
   public void StartBtn(){
 
-SceneManager.LoadScene("Second");
+SceneManager.LoadScene("Room prop");
     
   }
 }

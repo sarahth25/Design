@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/StartScene.unity
     guid: 36ec64d0c1ffb42088c33de85bb07ccd
+  - enabled: 1
+    path: Assets/ShiningRoom/demo.unity
+    guid: 2dbded0d650f1224e8a500d22b83932d
   - enabled: 1
     path: Assets/Scenes/Room prop.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
